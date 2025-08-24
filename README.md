@@ -41,17 +41,6 @@ Permite registrar notas de servicio, administrar clientes/servicios, generar rep
 
 ---
 
-## 📂 Estructura del proyecto
-```
-📦 proyecto_taller
- ┣ 📂 Python3ero/        # Carpeta con la base de datos y reportes
- ┃ ┗ 📜 taller.db        # Base de datos SQLite
- ┣ 📜 main.py            # Código principal del sistema
- ┣ 📜 README.md          # Este archivo
-```
-
----
-
 ## 🚀 Ejecución
 1. Clonar el repositorio:  
    ```bash
